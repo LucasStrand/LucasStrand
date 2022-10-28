@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, React-Native and other languages that intrigues me**
 
-- 👨‍💻 Mostof my projects can be found here, on GitHub. [https://github.com/LucasStrand?tab=repositories](https://github.com/LucasStrand?tab=repositories)
+- 👨‍💻 Most of my projects can be found here, on GitHub. [https://github.com/LucasStrand?tab=repositories](https://github.com/LucasStrand?tab=repositories)
 
 - 💬 Ask me about **Airfryers**
 
