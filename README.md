@@ -6,11 +6,11 @@
 
 - 🔭 I’m open to work baby! Glad you're checking me out 🥳
 
-- 🌱 I’m currently learning more about backend to become a more diverse developer. 
+- 🌱 I’m currently learning more about... anything! To become a more diverse developer. 
 
-- 👨‍💻 Most of my projects can be found here, on GitHub. [https://github.com/LucasStrand?tab=repositories](https://github.com/LucasStrand?tab=repositories)
+- 👨‍💻 Most of my projects can be found here, on GitHub. (not that interesting though, I've been professionally working using azure devops, while github for mostly school) [https://github.com/LucasStrand?tab=repositories](https://github.com/LucasStrand?tab=repositories)
 
-- 💬 Ask me about **Airfryers**.
+- 💬 Ask me about **Airfryers**. They are lifesavers!
 
 - 📫 How to reach me **lucas.strand@outlook.com** Or use any of the socials below.
 
