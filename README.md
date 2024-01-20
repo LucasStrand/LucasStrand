@@ -1,6 +1,7 @@
 ![headImg](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hello there 👋, I'm Lucas</h1>
-<h3 align="center">A curious developer who's eager to learn new stuff about writing symbols on a screen</h3>
+<h1 align="center">Hello there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" />, I'm Lucas
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CE45A&center=true&vCenter=true&random=false&width=435&lines=But+my+friends+call+me+Potter" alt="Typing SVG" /></a></p>
+<h3 align="center">A curious developer who's eager to learn new stuff about writing symbols on a screen</h3></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasstrand&label=Profile%20views&color=0e75b6&style=flat" alt="lucasstrand" /> </p>
 
