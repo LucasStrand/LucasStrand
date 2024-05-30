@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning more about... anything! To become a more diverse developer. 
 
-- 👨‍💻 Most of my projects can be found here, on GitHub under repositories or organisations. (not that interesting though, I've been professionally working using azure devops, while github for mostly school. i highly recommend contacting me and talk to me about my experience instead!)
+- 👨‍💻 Most of my projects can be found here, on GitHub under repositories or organizations. (not that interesting though, I've been professionally working using azure devops, while github for mostly school. I highly recommend contacting me and talk to me about my experience instead!)
 
 - 💬 Ask me about **Airfryers**. They are lifesavers!
 
