@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning more about... anything! To become a more diverse developer. 
 
-- 👨‍💻 Most of my projects can be found here, on GitHub. (not that interesting though, I've been professionally working using azure devops, while github for mostly school) [https://github.com/LucasStrand?tab=repositories](https://github.com/LucasStrand?tab=repositories)
+- 👨‍💻 Most of my projects can be found here, on GitHub. (not that interesting though, I've been professionally working using azure devops, while github for mostly school. i highly recommend contacting me and talk to me about my experience instead!) [https://github.com/LucasStrand?tab=repositories](https://github.com/LucasStrand?tab=repositories)
 
 - 💬 Ask me about **Airfryers**. They are lifesavers!
 
