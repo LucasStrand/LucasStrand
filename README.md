@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasstrand&label=Profile%20views&color=0e75b6&style=flat" alt="lucasstrand" /> </p>
 
-- 🔭 I’m open to work baby! Glad you're checking me out 🥳
+- 🔭 Working as a system technician at Smart Teknik
 
 - 🌱 I’m currently learning more about... anything! To become a more diverse developer. 
 
