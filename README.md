@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact **People nickname me Potter, bet you can't guess why (yes you can 👓)**
 
-https://go.dev/images/go-logo-white.svg
-
 
 
 <h3 align="left">Connect with me:</h3>
