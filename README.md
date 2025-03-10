@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **People nickname me Potter, bet you can't guess why (yes you can 👓)**
 
-
+- 💸 I may have student loans but at least I have no technical debt!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
