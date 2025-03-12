@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Airfryers**. Best invention known to mankind! 
 
-- 📫 How to reach me **lucas.strand@outlook.com** Or use any of the socials below.
+- 📫 How to reach me **lucas.strand@outlook.com** Or use any of the socials below. Perchance even drop a follow? 👀
 
 - ⚡ Fun fact **People nickname me Potter, bet you can't guess why (yes you can 👓)**
 
